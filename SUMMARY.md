@@ -20,7 +20,7 @@
   * [路由器](education/lu-you-qi/README.md)
     * [Merlin](education/lu-you-qi/merlin.md)
     * [Padavan](education/lu-you-qi/padavan.md)
-  * [订阅地址 & 托管地址](education/ding-yue-di-zhi-tuo-guan-di-zhi.md)
+  * [订阅地址 & 托管地址](education/subscription.md)
 * [通用](tong-yong/README.md)
   * [公共端口](tong-yong/gong-gong-duan-kou.md)
   * [Telegram bot](tong-yong/telegram-bot.md)
