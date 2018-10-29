@@ -4,17 +4,15 @@
 * `软件版本：Dler Cloud`
 * `设备要求：MacBook / iMac / Mac Pro`
 
-
-
 [下载](https://dlercloud.com/client.html)并安装，输入 Dler Cloud 的邮箱/密码并登陆。
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/image%20%2810%29.png)
 
 右上角会显示「成功更新订阅」
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/image%20%2814%29.png)
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/image%20%286%29.png)
 
 {% hint style="info" %}
 客户端配置

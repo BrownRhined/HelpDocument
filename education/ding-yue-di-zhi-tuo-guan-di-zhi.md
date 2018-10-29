@@ -14,7 +14,5 @@ Surge 使用「托管模式」是目前对小白最友好的方式，使用后�
 
 在 「墙洞」用户中心首页获取
 
-![](../.gitbook/assets/meitu.jpg)
-
-
+![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/meitu.jpg)
 

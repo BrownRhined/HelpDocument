@@ -1,4 +1,4 @@
-# 1Mix.org
+# 幫助中心
 
 {% hint style="success" %}
 歡迎訪問 1Mix.org 的幫助中心！
@@ -7,8 +7,6 @@
 {% hint style="info" %}
 要查看文件，請點擊側邊欄的相關文章。
 {% endhint %}
-
-
 
 {% hint style="warning" %}
 文件存在時效性。
