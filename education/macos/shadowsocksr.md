@@ -4,7 +4,7 @@
 * `軟體版本：ShadowsocksX-NG-R8 1.4.4`
 * `設備要求：MacBook / iMac / Mac Pro`
 
-[下载](https://dlercloud.com/client.html)并安装完成後，打開dmg文件，然後將其拖動到右側的Applications安裝。
+登入帳號，用戶中心底部[下载](http://1mix.org/user)並安装完成後，打開dmg文件，然後將其拖動到右側的Applications安裝。
 
 ![&#x5C07;&#x5176;&#x62D6;&#x52D5;&#x5230;&#x53F3;&#x5074;&#x7684;Applications&#x5B89;&#x88DD;&#x3002;](../../.gitbook/assets/e9ae1547179960.jpg)
 
