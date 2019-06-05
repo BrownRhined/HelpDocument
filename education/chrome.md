@@ -8,8 +8,13 @@ description: 為 Chrome 配置 Shadowsocks 代理
 
 在開始下面的教學前的請確保 Shadowsocks 客户端已经配置好，如果沒有請参考：
 
-* 在 Windows 中配置 Shadowsocks 客户端
-* 在 macOS 中配置 Shadowsocks 客户端
+#### 在 Windows 中配置 Shadowsocks 客户端
+
+* {% page-ref page="windows/shadowsocksr.md" %}
+
+#### 在 macOS 中配置 Shadowsocks 客户端
+
+{% page-ref page="macos/shadowsocksr.md" %}
 
 本教學不適用手機上的 Chrome 瀏覽器。
 
@@ -23,19 +28,19 @@ description: 為 Chrome 配置 Shadowsocks 代理
 
 安装完成後會在 Chrome 瀏覽器右上角顯示擴充功能的圖標，如果你不想瀏覽器走代理可以選擇“直接連接”，如图。
 
-![](../../.gitbook/assets/switchyomega-1.png)
+![](../.gitbook/assets/switchyomega-1.png)
 
 下面開始為 SwitchyOmega 配置 Shadowsocks 代理。首先打開 SwitchyOmega 選項設置界面，如果有教學提示請選擇跳過。
 
 首先我们需要新建一个情景模式，命名为“SS”，並選擇類型為 “代理服务器”，這個模式主要設定為全部都走 Shadowsocks 代理，如圖。
 
-![](../../.gitbook/assets/switchyomega-2.png)
+![](../.gitbook/assets/switchyomega-2.png)
 
 需要配置代理協議：SOCKS5，代理服务器：127.0.0.1，代理端口：1080，如圖。
 
 代理端口需要和上面 Shadowsocks 客户端配置的端口一样，默認情況下代理伺服器地址都是 127.0.0.1。
 
-![](../../.gitbook/assets/switchyomega-3.png)
+![](../.gitbook/assets/switchyomega-3.png)
 
 如果你有使用内網需求可以在 “不代理的地址列表” 排除内網。可以查看上圖中排除 192.168.0.\* 整個網段。
 
@@ -43,11 +48,11 @@ description: 為 Chrome 配置 Shadowsocks 代理
 
 另外我们需要在新建一个情景模式，命名为“PAC”，並選擇類型為“PAC情景模式”，這個模式主要是走 PAC 自動代理，如圖。
 
-![](../../.gitbook/assets/switchyomega-4.png)
+![](../.gitbook/assets/switchyomega-4.png)
 
 需要先在 Shadowsocks 客户端的選單 “PAC -&gt; 複製本地 PAC 地址”，然後在貼上到 “PAC 網址”中，並立即更新情景模式，更新成功后可以看到下面的“PAC 脚本”會出现內容，如圖。
 
-![](../../.gitbook/assets/switchyomega-5.png)
+![](../.gitbook/assets/switchyomega-5.png)
 
 该模式会根据 PAC 脚本来区分代理，只有规则里面有的才会走代理。
 
@@ -59,7 +64,7 @@ description: 為 Chrome 配置 Shadowsocks 代理
 
 
 
-![](../../.gitbook/assets/switchyomega-7.png)
+![](../.gitbook/assets/switchyomega-7.png)
 
 **切换规则**是在访问条件设置的域名时候使用后面设置的情景模式。比如图中我设置 \*.google.com 使用 SS 情景模式。我们可以点击“添加条件”来添加自己的规则。
 
@@ -74,7 +79,7 @@ description: 為 Chrome 配置 Shadowsocks 代理
 
 配置完成后你可以在 SwitchyOmega 扩展程序菜单中自由选择使用哪种情景模式，如图。
 
-![](../../.gitbook/assets/switchyomega-6.png)
+![](../.gitbook/assets/switchyomega-6.png)
 
 #### 测试代理 <a id="&#x6D4B;&#x8BD5;&#x4EE3;&#x7406;"></a>
 
