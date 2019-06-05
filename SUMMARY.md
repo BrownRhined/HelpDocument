@@ -11,7 +11,7 @@
     * [1Mix 專用客戶端](education/macos/shadowsocksr.md)
   * [Android](education/android/README.md)
     * [1MiX 專屬APP](education/android/1mix-app.md)
-    * [ShadowsocksR](education/android/shadowsocksr.md)
+    * [原版ShadowsocksR](education/android/shadowsocksr.md)
   * [iOS](education/ios/README.md)
     * [Shadowrocket](education/ios/shadowrocket.md)
     * [Wingy](education/ios/wingy.md)

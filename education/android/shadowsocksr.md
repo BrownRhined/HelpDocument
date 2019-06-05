@@ -1,10 +1,14 @@
-# ShadowsocksR
+---
+description: 原版安卓APP
+---
+
+# 原版ShadowsocksR
 
 * `系统要求：Android 4.4 及以上`
-* `软件版本：ShadowsocksR 最新版`
-* `设备要求：Android Phone / Tablet`
+* `軟體版本：ShadowsocksR 最新版`
+* `設備要求：Android Phone / Tablet`
 
-[下载](https://dlercloud.com/client.html)并安装
+登入帳號，用戶中心底下[下载](http://1mix.org/user)並安装
 
 ![](../../.gitbook/assets/ssr-android-4.png)
 
