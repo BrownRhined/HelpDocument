@@ -8,7 +8,7 @@ description: 原版安卓APP
 * `軟體版本：ShadowsocksR 最新版`
 * `設備要求：Android Phone / Tablet`
 
-登入帳號，用戶中心底下[下载](http://1mix.org/user)並安装
+登入帳號，用戶中心底部[下载](http://1mix.org/user)並安装
 
 ![](../../.gitbook/assets/ssr-android-4.png)
 

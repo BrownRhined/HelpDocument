@@ -3,13 +3,13 @@
 
 
 * `系统要求：iOS 9 及以上`
-* `软件版本：Shadowrocket 最新版`
-* `设备要求：iPhone / iPad`
+* `軟體版本：Shadowrocket 最新版`
+* `設備要求：iPhone / iPad`
 
 {% hint style="danger" %}
-此应用已在国区下架，直接搜索会出现盗版不可用的「Shadowrkcoet」。
+此應用已在国区下架，直接搜尋會出現盜版不可用的「Shadowrkcoet」僅仿詐騙。
 
-（可以在 使用非中國區商店頁面或曲）
+（可以在 使用非中國區商店頁面獲取）
 {% endhint %}
 
 打开 [Shadowrkcoet](https://dlercloud.com/client.html)，点击首页的右上角的「+」

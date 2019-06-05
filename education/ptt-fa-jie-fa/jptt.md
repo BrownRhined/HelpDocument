@@ -10,5 +10,11 @@
 
 ![&#x9078;23&#xFF0C;&#x6539;&#x70BA;23PORT&#x9023;&#x63A5;&#xFF0C;&#x5373;&#x53EF;&#x9806;&#x5229;&#x767B;&#x5165;&#x3002;](../../.gitbook/assets/jptt04.jpg)
 
+{% hint style="info" %}
+如更改port還是無法登入，可能是電信商DNS汙染，請設定以下步驟。
+{% endhint %}
 
+點 自訂PTT網址
+
+![ &#x9078;&#x64C7;PTT&#x7DB2;&#x5740;&#x6539;&#x70BA;IP](../../.gitbook/assets/img_20190605_211620.jpg)
 
