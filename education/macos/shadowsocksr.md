@@ -1,8 +1,8 @@
 # ShadowsocksX-NG
 
 * `系统要求：macOS 10.5 及以上`
-* `软件版本：Dler Cloud`
-* `设备要求：MacBook / iMac / Mac Pro`
+* `軟體版本：Dler Cloud`
+* `設備要求：MacBook / iMac / Mac Pro`
 
 [下载](https://dlercloud.com/client.html)并安装，输入 Dler Cloud 的邮箱/密码并登陆。
 
