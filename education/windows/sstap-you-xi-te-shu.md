@@ -33,6 +33,6 @@
 ![](../../.gitbook/assets/sstap-6.png)
 
 {% hint style="danger" %}
-「Dler Cloud」的节点均没有为游戏加速优化，因此我们不对游戏加速性能提供任何保障。
+「1MiX」的节点均没有为游戏加速优化，因此我们不对游戏加速性能提供任何保障。
 {% endhint %}
 
