@@ -4,50 +4,48 @@ description: 為 Chrome 配置 Shadowsocks 代理
 
 # Chrome
 
- Chrome 浏览器搭配 [Proxy SwitchyOmega](https://switchyomega.com/) 扩展使用是非常方便的，此方案需要配合 Shadowsocks 客户端使用，并需要禁用 Shadowsocks 客户端的“启用系统代理”。
+ Chrome 瀏覽器搭配 [Proxy SwitchyOmega](https://switchyomega.com/) 擴充功能使用是非常方便的，此方案需要配合 Shadowsocks 客户端使用，並需要禁用 Shadowsocks 客户端的“啟用系统代理”。
 
-
-
-在开始下面的教程前的请确保 Shadowsocks 客户端已经配置好，如果没有请参考：
+在開始下面的教學前的請確保 Shadowsocks 客户端已经配置好，如果沒有請参考：
 
 * 在 Windows 中配置 Shadowsocks 客户端
 * 在 macOS 中配置 Shadowsocks 客户端
 
-本教程不适用手机上的 Chrome 浏览器。
+本教學不適用手機上的 Chrome 瀏覽器。
 
 #### 安装 SwitchyOmega <a id="&#x5B89;&#x88C5;-switchyomega"></a>
 
-通过 [Chrome 应用商店](https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif) 在线安装，如果无法访问，也可以从 Github [直接下载](https://github.com/FelisCatus/SwitchyOmega/releases)安装包
+[點次下載外掛](https://github.com/FelisCatus/SwitchyOmega/releases/download/v2.5.20/SwitchyOmega_Chromium.crx)或通過 [Chrome 應用商店](https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif) 線上安装，如果無法訪問，也可以從 Github [直接下载](https://github.com/FelisCatus/SwitchyOmega/releases)安装包
 
-在 Chrome 地址栏输入 `chrome://extensions` 打开扩展程序，拖动 .crx 后缀的 SwitchyOmega 安装文件到扩展程序中按提示进行安装。
+在 Chrome 地址欄输入 `chrome://extensions` 打開擴充功能頁面，拖動 .crx 副檔名的 SwitchyOmega 安裝文件到擴充功能頁面中按提示進行安裝。
 
 #### 配置 Shadowsocks 情景模式 <a id="&#x914D;&#x7F6E;-shadowsocks-&#x60C5;&#x666F;&#x6A21;&#x5F0F;"></a>
 
-安装完成后会在 Chrome 浏览器右上角显示扩展程序的图标，如果你不想浏览器走代理可以选择“直接连接”，如图。
+安装完成後會在 Chrome 瀏覽器右上角顯示擴充功能的圖標，如果你不想瀏覽器走代理可以選擇“直接連接”，如图。
 
 ![](../../.gitbook/assets/switchyomega-1.png)
 
-下面开始为 SwitchyOmega 配置 Shadowsocks 代理。首先打开 SwitchyOmega 选项设置界面，如果有教程提示请选择跳过。
+下面開始為 SwitchyOmega 配置 Shadowsocks 代理。首先打開 SwitchyOmega 選項設置界面，如果有教學提示請選擇跳過。
 
-首先我们需要新建一个情景模式，命名为“SS”，并选择类型为 “代理服务器”，这个模式主要设置为全部都走 Shadowsocks 代理，如图。
+首先我们需要新建一个情景模式，命名为“SS”，並選擇類型為 “代理服务器”，這個模式主要設定為全部都走 Shadowsocks 代理，如圖。
 
 ![](../../.gitbook/assets/switchyomega-2.png)
 
-需要配置代理协议：SOCKS5，代理服务器：127.0.0.1，代理端口：1080，如图。
+需要配置代理協議：SOCKS5，代理服务器：127.0.0.1，代理端口：1080，如圖。
 
-代理端口需要和上面 Shadowsocks 客户端配置的端口一样，默认情况下代理服务器地址都是 127.0.0.1。
+代理端口需要和上面 Shadowsocks 客户端配置的端口一样，默認情況下代理伺服器地址都是 127.0.0.1。
 
 ![](../../.gitbook/assets/switchyomega-3.png)
 
-如果你有使用内网的需求可以在 “不代理的地址列表” 排除内网。可以查看上图中排除 192.168.0.\* 整个网段。
+如果你有使用内網需求可以在 “不代理的地址列表” 排除内網。可以查看上圖中排除 192.168.0.\* 整個網段。
 
-配置完成后请记得 “应用选项” 保存配置。
+配置完成後請記得 “應用選項” 保存配置。
 
-另外我们需要在新建一个情景模式，命名为“PAC”，并选择类型为“PAC情景模式”，这个模式主要是走 PAC 自动代理，如图。
+另外我们需要在新建一个情景模式，命名为“PAC”，並選擇類型為“PAC情景模式”，這個模式主要是走 PAC 自動代理，如圖。
 
 ![](../../.gitbook/assets/switchyomega-4.png)
 
-需要先在 Shadowsocks 客户端的菜单 “PAC -&gt; 复制本地 PAC 地址”，然后在粘贴到 “PAC 网址”中，并立即更新情景模式，更新成功后可以看到下面的“PAC 脚本”会出现内容，如图。
+需要先在 Shadowsocks 客户端的選單 “PAC -&gt; 複製本地 PAC 地址”，然後在貼上到 “PAC 網址”中，並立即更新情景模式，更新成功后可以看到下面的“PAC 脚本”會出现內容，如圖。
 
 ![](../../.gitbook/assets/switchyomega-5.png)
 
