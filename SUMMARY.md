@@ -5,6 +5,7 @@
   * [Windows](education/windows/README.md)
     * [ShadowsocksR](education/windows/shadowsocksr/README.md)
       * [負載均衡](education/windows/shadowsocksr/fu-zai-jun-heng.md)
+    * [Chrome](education/windows/chrome.md)
     * [SS-Tap（遊戲/特殊）](education/windows/sstap-you-xi-te-shu.md)
   * [macOS](education/macos/README.md)
     * [1Mix 專用客戶端](education/macos/shadowsocksr.md)

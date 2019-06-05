@@ -1,4 +1,4 @@
-# 手动模式（Workflow）
+# 手動模式（Workflow）
 
 * `系统要求：iOS 9 及以上`
 * `软件版本：Surge 2 / 3`
