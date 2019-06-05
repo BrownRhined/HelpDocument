@@ -1,4 +1,4 @@
-# 1Mix 專用客戶端
+# ShadowsocksX-NG
 
 * `系统要求：macOS 10.5 及以上`
 * `软件版本：Dler Cloud`

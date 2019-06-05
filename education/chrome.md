@@ -10,13 +10,17 @@ description: 為 Chrome 配置 Shadowsocks 代理
 
 #### 在 Windows 中配置 Shadowsocks 客户端
 
-* {% page-ref page="windows/shadowsocksr.md" %}
+{% page-ref page="windows/shadowsocksr.md" %}
 
 #### 在 macOS 中配置 Shadowsocks 客户端
 
 {% page-ref page="macos/shadowsocksr.md" %}
 
+
+
+{% hint style="info" %}
 本教學不適用手機上的 Chrome 瀏覽器。
+{% endhint %}
 
 #### 安装 SwitchyOmega <a id="&#x5B89;&#x88C5;-switchyomega"></a>
 
