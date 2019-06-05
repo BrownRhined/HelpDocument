@@ -29,8 +29,8 @@
     * [JPTT](education/ptt-fa-jie-fa/jptt.md)
     * [MoPtt](education/ptt-fa-jie-fa/moptt.md)
     * [PTT網址](education/ptt-fa-jie-fa/ptt-zhi.md)
-* [通用](tong-yong/README.md)
-  * [公共端口](tong-yong/gong-gong-duan-kou.md)
-  * [Telegram bot](tong-yong/telegram-bot.md)
-  * [規則](tong-yong/gui-ze.md)
+* [其他](other/README.md)
+  * [公共端口](other/gong-gong-duan-kou.md)
+  * [Telegram bot](other/telegram-bot.md)
+  * [規則](other/gui-ze.md)
 
