@@ -14,7 +14,7 @@
 
 在接入点列表页面点击底部的「+」按钮，并选择「添加/升级 SSR 订阅」。
 
-![](../../.gitbook/assets/ssr-android-6.png)
+![](../../.gitbook/assets/2750202005.jpg)
 
 默认有一个「FreeSSR-piblic」的无效连接信息，建议向右滑动将其去除。
 
@@ -32,15 +32,17 @@
 
 ![](../../.gitbook/assets/ssr-android-12.png)
 
+![](https://github.com/BrownRhined/HelpDocument/tree/4873c8b56a4f0144f77308811b1fe6b327b10ebb/.gitbook/assets/ssr-android-12.png)
+
 {% hint style="info" %}
 客户端配置
 {% endhint %}
 
 导入接入点信息后，返回到主页面，然后下滑到「功能设置」功能区，打开「UDP 转发」和「IPv6 路由」，并将「路由」设置为「绕过局域网和中国大陆地址」。
 
-![](../../.gitbook/assets/ssr-android-15.png)
+![](../../.gitbook/assets/ssr-android-14.png)
 
 滑动页面到顶部，点击右上角的纸飞机图标连接，如果是首次连接，则系统会弹出如下的提示框，请点击「确定」。
 
-![](../../.gitbook/assets/ssr-android-14.png)
+![](../../.gitbook/assets/ssr-android-15.png)
 
