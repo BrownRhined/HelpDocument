@@ -6,7 +6,7 @@
 
 [下载](https://dlercloud.com/client.html)，然后右键点击托盘栏纸飞机图标，在「服务器」选项卡中选择「SSR 服务器订阅设置」。
 
-![](../../../.gitbook/assets/jr6l9.png)
+![](../../.gitbook/assets/jr6l9.png)
 
 ![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/windows1.png)
 
@@ -31,6 +31,12 @@
 ![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/ssr-windows-9.png)
 
 再次右键点击托盘栏纸飞机图标，在「系统代理模式」菜单中选择「PAC 模式」或「全局模式」。
+
+
+
+{% hint style="danger" %}
+ShadowsocksR for Windows 的「负载均衡」会导致 IP 频繁跳动导致部分服务不可用，出现此情况请关闭「负载均衡」。
+{% endhint %}
 
 ![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/ssr-windows-10.png)
 
