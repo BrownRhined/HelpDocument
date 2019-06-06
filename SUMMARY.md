@@ -33,4 +33,9 @@
   * [公共端口](other/gong-gong-duan-kou.md)
   * [Telegram bot](other/telegram-bot.md)
   * [規則](other/gui-ze.md)
+* [常見問題解答](qa/README.md)
+  * [客戶服務](qa/ke-fu.md)
+  * [使用必讀](qa/shi-yong-bi.md)
+  * [套餐計費](qa/howprice.md)
+  * [帳單支付](qa/zhi-fu.md)
 
