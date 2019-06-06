@@ -42,5 +42,5 @@
   * [關於我們](xiang-kuan/wo.md)
   * [服務條款](xiang-kuan/fu-kuan.md)
   * [隱私政策](xiang-kuan/si-zheng-ce.md)
-* [可接受使用政策](ke-jie-shou-shi-yong-zheng-ce.md)
+  * [可接受使用政策](xiang-kuan/ke-jie-shou-shi-yong-zheng-ce.md)
 
