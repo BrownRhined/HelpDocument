@@ -36,3 +36,9 @@ shadowsocks-qt5是ubuntu上一個可視化的版本
 
 ![](../../.gitbook/assets/c-linux-7.png)
 
+
+
+{% hint style="success" %}
+Happy End 您可以愉快的使用了！
+{% endhint %}
+

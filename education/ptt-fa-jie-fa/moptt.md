@@ -12,3 +12,7 @@
 其他BBS連線軟體設定問題、擴展技術支持請用工單系統聯繫客服
 {% endhint %}
 
+{% hint style="success" %}
+Happy End 您可以愉快的使用了！
+{% endhint %}
+

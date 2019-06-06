@@ -32,6 +32,12 @@ description: Quantumult是一款iOS上面的網絡代理工具，提供了豐富
 
 添加完成后，会自动返回订阅管理页面，这时在 Server 分类下名称为「墙洞「的选项上向左轻扫，点击「Update」即可获取节点列表。
 
+
+
+{% hint style="success" %}
+Happy End 您可以愉快的使用了！
+{% endhint %}
+
 ![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/image%20%2816%29.png)
 
 ![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/img_dd6cfe2096da-1.jpeg)

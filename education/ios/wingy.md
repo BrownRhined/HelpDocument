@@ -38,3 +38,9 @@ Wingy是IOS系統中同時支持Shadowsocks/ShadowsocksR的APP之一，目前收
 
 ![](../../.gitbook/assets/6022bcb3gy1fsqq0z5tw0j20go0oxq4a-1.jpg)
 
+
+
+{% hint style="success" %}
+Happy End 您可以愉快的使用了！
+{% endhint %}
+

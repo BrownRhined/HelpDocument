@@ -89,3 +89,9 @@ description: 為 Chrome 配置 Shadowsocks 代理
 
 使用 [IP125.com](https://www.ip125.com/) 查看访问国内外时的 IP 地址。
 
+
+
+{% hint style="success" %}
+Happy End 您可以愉快的使用了！
+{% endhint %}
+

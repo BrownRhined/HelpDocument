@@ -18,3 +18,9 @@
 
 ![ &#x9078;&#x64C7;PTT&#x7DB2;&#x5740;&#x6539;&#x70BA;IP](../../.gitbook/assets/img_20190605_211620.jpg)
 
+
+
+{% hint style="success" %}
+Happy End 您可以愉快的使用了！
+{% endhint %}
+

@@ -30,5 +30,11 @@ Surge 不兼容 SSR 协议，因此运行 Workflow 时将自动修改 加密 / �
 
 将「墙洞」的邮箱/密码填入点击正上方的「▶️」运行即可。
 
+
+
+{% hint style="success" %}
+Happy End 您可以愉快的使用了！
+{% endhint %}
+
 ![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/img_00cb547f6542-1.jpeg)
 

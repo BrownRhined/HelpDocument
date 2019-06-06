@@ -59,3 +59,7 @@
 相關數據請登入網站後查看節點列表
 {% endhint %}
 
+{% hint style="success" %}
+Happy End 您可以愉快的使用了！
+{% endhint %}
+
