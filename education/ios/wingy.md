@@ -4,6 +4,8 @@ description: IOS安裝「Wingy」APP使用Shadowsocks教學
 
 # Wingy
 
+![](../../.gitbook/assets/app_wingy.png)
+
 Wingy 客戶端配置使用簡單而且免費，可惜的是，因為其已經不在中國區App Store 上架，需要在外國區的App Store 下載
 
 {% hint style="info" %}

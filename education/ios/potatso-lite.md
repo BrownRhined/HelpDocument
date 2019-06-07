@@ -1,5 +1,7 @@
 # Potatso Lite
 
+
+
 * `系统要求：iOS 9 及以上`
 * `軟體版本：Shadowrocket 最新版`
 * `設備要求：iPhone / iPad`

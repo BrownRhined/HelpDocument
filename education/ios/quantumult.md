@@ -4,6 +4,8 @@ description: Quantumult是一款iOS上面的網絡代理工具，提供了豐富
 
 # Quantumult
 
+![](../../.gitbook/assets/app_quantumult.png)
+
 * `軟體名稱：Quantumult`
 * `系统要求：iOS 9 及以上`
 * `软件版本：Quantumult 最新版`
