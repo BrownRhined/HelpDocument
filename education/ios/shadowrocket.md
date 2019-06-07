@@ -4,8 +4,11 @@ description: Shadowrocket是一款iOS上面的網絡代理工具，提供了豐�
 
 # Shadowrocket
 
+![](../../.gitbook/assets/app_shadowrocket.png)
+
 ### 說明
 
+* `軟體名稱：Shadowrocket`
 * `系统要求：iOS 9 及以上`
 * `軟體版本：Shadowrocket 最新版`
 * `設備要求：iPhone / iPad`
