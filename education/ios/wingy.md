@@ -16,6 +16,8 @@ Wingy 不支持SSR 網絡混淆的高級特性（protocol 和obfs）。
 
 Wingy是IOS系統中同時支持Shadowsocks/ShadowsocksR的APP之一，目前收費1美元，您可以直接在蘋果App Store直接搜尋進行安裝，如下截圖。
 
+{% embed url="https://itunes.apple.com/tw/app/wingy-http-s-socks5-proxy-utility/id1178584911?mt=8" %}
+
 
 
 #### Wingy開始配置

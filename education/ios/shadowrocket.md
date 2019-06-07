@@ -21,21 +21,41 @@ description: Shadowrocket是一款iOS上面的網絡代理工具，提供了豐�
 
 Shadowrocket能支持SSR網絡混淆的高級特性（protocol和obfs），後續我們的服務也會支持更多定制（ssr）。
 
+### **下載應用**
+
 但是因為其已經不在中國區App Store上架，需要在外國區的App Store下載，以及因為其靈活的自定義能力，使用Shadowrocket適合一些動手能力較強以及有較高定制需求的用戶。
 
-### **教學打開App配置使用**
+{% embed url="https://itunes.apple.com/tw/app/shadowrocket/id932747118?mt=8" %}
+
+
 
 ### **方法一 訂閱方式**
 
-打开 [Shadowrkcoet](https://dlercloud.com/client.html)，点击首页的右上角的「+」
+打開 Shadowrkcoet，點擊首頁的右上角的「+」
 
-![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/image%20%284%29.png)
+![&#x9EDE;&#x64CA;&#x53F3;&#x4E0A;&#x89D2;&#x7684;&#x300C;+&#x300D;](../../.gitbook/assets/001.jpg)
 
-点击类型
+點擊類型
 
-![](https://github.com/BrownRhined/HelpDocument/tree/603d2bd5d2643d4ceb2b12057796a97fc2d1df78/.gitbook/assets/image%20%281%29.png)
+![&#x9EDE;&#x64CA;&#x985E;&#x578B;](../../.gitbook/assets/002.jpg)
 
-选择「Subscribe」，将订阅地址复制的内容填入「URL」右边的编辑框，点击完成。
+選擇「Subscribe」，將訂閱地址複製的内容填入「URL」右邊的編輯框，點擊完成。
+
+![&#x9078;&#x64C7;&#x300C;Subscribe&#x300D;](../../.gitbook/assets/003.jpg)
+
+![&#x8CBC;&#x4E0A;&#x8A02;&#x95B1;&#x5730;&#x5740;&#xFF0C;&#x9EDE;&#x64CA;&#x5B8C;&#x6210;&#x3002;](../../.gitbook/assets/004%20%281%29.jpg)
+
+![&#x9078;&#x64C7;&#x7BC0;&#x9EDE;&#xFF0C;&#x555F;&#x7528;](../../.gitbook/assets/005%20%281%29.jpg)
+
+{% hint style="success" %}
+Happy End 您可以愉快的使用了！
+{% endhint %}
+
+### 更新訂閱
+
+![&#x5728;&#x670D;&#x52D9;&#x5668;&#x8A02;&#x95B1;&#x5F80;&#x5DE6;&#x6ED1;](../../.gitbook/assets/006%20%281%29.jpg)
+
+![&#x9EDE;&#x64CA;&#x300C;&#x66F4;&#x65B0;&#x300D;&#x4E0B;&#x65B9;&#x7BC0;&#x9EDE;&#x6703;&#x66F4;&#x65B0;](../../.gitbook/assets/007%20%282%29.jpg)
 
 ### 方法二 手動添加
 

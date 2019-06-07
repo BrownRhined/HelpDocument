@@ -8,6 +8,8 @@
 
 前往App Store搜尋下載Potatso Lite
 
+
+
 ![](../../.gitbook/assets/c_ios_001.jpg)
 
 下載完後打開Potatso Lite，第一次使用會顯示歡迎畫面

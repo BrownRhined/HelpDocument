@@ -4,7 +4,11 @@
 * `软件版本：ShadowsocksR 最新版`
 * `设备要求：Windows PC / Tablet`
 
-[下载](https://dlercloud.com/client.html)，然后右键点击托盘栏纸飞机图标，在「服务器」选项卡中选择「SSR 服务器订阅设置」。
+### 下載
+
+Windows的加速軟體 \( 請登入網站用戶中心 \)，下載後解壓到一個文件夾中，然後就可以運行軟件。
+
+下载，然后右键点击托盘栏纸飞机图标，在「服务器」选项卡中选择「SSR 服务器订阅设置」。
 
 ![](../../.gitbook/assets/jr6l9.png)
 
