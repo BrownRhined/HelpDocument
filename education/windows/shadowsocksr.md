@@ -8,6 +8,16 @@
 
 Windows的加速軟體 \( 請登入網站用戶中心 \)，下載後解壓到一個文件夾中，然後就可以運行軟件。
 
+![](../../.gitbook/assets/c_win_1.jpg)
+
+然後，嘗試再打開軟件。
+
+![](../../.gitbook/assets/windows-ssr-1.png)
+
+ 打開軟件後，可以在右下角的程序欄中找到，右鍵`小飞机图标`能彈出菜單。
+
+![](../../.gitbook/assets/windows-ssr-2.png)
+
 下载，然后右键点击托盘栏纸飞机图标，在「服务器」选项卡中选择「SSR 服务器订阅设置」。
 
 ![](../../.gitbook/assets/jr6l9.png)
