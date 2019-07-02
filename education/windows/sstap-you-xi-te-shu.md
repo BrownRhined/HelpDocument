@@ -12,7 +12,7 @@
 作者 Taro 宣称 SS-Tap 的代码没有备份，而储存代码的硬盘因为控制芯片损坏，永久丢失了这些代码，并决定放弃 SS-Tap 的开发，因此，SS-Tap 将可能在未来的系统更新中出现意料之外的问题或无法使用。
 {% endhint %}
 
-[下载](https://dlercloud.com/client.html)并安装，安装过程中将可能提示，无需担心，这是因为 SS-Tap 需要使用 OpenVPN 的 TAP 设备驱动来创建虚拟网卡以实现类似 VPN 的效果。为了 SS-Tap 能正常运行，请点击「安装」。
+[下载](https://www.sockscap64.com/sstap-%E4%BA%AB%E5%8F%97%E6%B8%B8%E6%88%8F-%E4%BD%BF%E7%94%A8sstap/)并安装，安装过程中将可能提示，无需担心，这是因为 SS-Tap 需要使用 OpenVPN 的 TAP 设备驱动来创建虚拟网卡以实现类似 VPN 的效果。为了 SS-Tap 能正常运行，请点击「安装」。
 
 ![](../../.gitbook/assets/jr6l9.png)
 
