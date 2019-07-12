@@ -63,3 +63,21 @@
 Happy End 您可以愉快的使用了！
 {% endhint %}
 
+### 新版macOS 無法更新訂閱 問題解決辦法
+
+新版mac系統因為新增 App Transport Security \(ATS\)機制關係，HTTP都轉向TLS1.2協議進行傳輸會導致原來請求更新訂閱網址，非HTTPS訪問是禁止的，照下面操作方法修改APP即可正常更新訂閱 \(本教學由1MiX撰寫真正實力技術派，轉貼請註明\)。
+
+![](../../.gitbook/assets/ying-mu-kuai-zhao-20190713-shang-wu-12.25.10.png)
+
+到 應用程式 找到 ShadowsocksX-NG-R8 應用程式，右鍵 &gt; 顯示套件內容  或 齒輪 &gt; 顯示套件內容
+
+![&#x96D9;&#x64CA;&#x9032;&#x5165; Contents &#x6587;&#x4EF6;&#x593E;](../../.gitbook/assets/ying-mu-kuai-zhao-20190713-shang-wu-12.25.31.png)
+
+[點此下載](http://1mix.org/ssr-download/Info.zip) Info.plist 文件壓縮檔 
+
+![](../../.gitbook/assets/ying-mu-kuai-zhao-20190713-shang-wu-12.26.05.png)
+
+打開下載下來的壓縮檔，將Info.plist 檔案拖曳進去，**取代**
+
+重新打開app 即更新訂閱成功
+
