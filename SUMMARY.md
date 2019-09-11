@@ -32,6 +32,8 @@
     * [JPTT](education/ptt-fa-jie-fa/jptt.md)
     * [MoPtt](education/ptt-fa-jie-fa/moptt.md)
     * [PTT網址](education/ptt-fa-jie-fa/ptt-zhi.md)
+  * [直連台灣速度異常](education/zhi-lian-tai-wan-su-du-yi-chang.md)
+  * [LINE 桌面版](education/line-zhuo-mian-ban.md)
 * [常見問題解答](qa/README.md)
   * [使用必讀](qa/shi-yong-bi.md)
   * [套餐計費](qa/howprice.md)
