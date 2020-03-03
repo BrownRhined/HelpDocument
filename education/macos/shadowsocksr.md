@@ -81,3 +81,12 @@ Happy End 您可以愉快的使用了！
 
 重新打開app 即更新訂閱成功
 
+### 閃退開不起來 解決辦法
+
+一般開啟來程式及閃退，是因為之前有使用過，設定不良導致
+刪除
+/Users/{Your user name}/Library/Preferences/com.qiuyuzhou.ShadowsocksX-NG.plist
+重新安裝一次軟體 即可
+
+另外也可以檢查是否有殘餘資料夾
+/Users/{Your user name}/.ShadowsocksX 
