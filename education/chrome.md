@@ -42,6 +42,8 @@ description: 為 Chrome 配置 Shadowsocks 代理
 
 需要配置代理協議：SOCKS5，代理服务器：127.0.0.1，代理端口：1080，如圖。
 
+使用 Clash for Windows，代理端口：7891
+
 代理端口需要和上面 Shadowsocks 客户端配置的端口一样，默認情況下代理伺服器地址都是 127.0.0.1。
 
 ![](../.gitbook/assets/switchyomega-3.png)
